@@ -1,16 +1,6 @@
 <div align="center">
 
-  <img width="800" height="526" alt="skillImage" src="https://github.com/user-attachments/assets/1aaa89c7-16e2-4147-88e6-81acca875a17" />
-
-  <br/>
-  <br/>
-  
-  <img width="800" height="300" alt="artEdwardCucuel" src="https://github.com/user-attachments/assets/43a4dd01-d1d4-4964-a5c5-5c399495ff14" />
-
-  <br/>
-  <br/>
-
-  [𝑳𝒊𝒏𝒌𝒆𝒅𝑰𝒏](https://www.linkedin.com/in/dkssud-chaeyeon/)
+[♡](https://dkssud-chaeyeon.vercel.app/welcome)
   
   <br/>
   
