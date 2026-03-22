@@ -2,7 +2,7 @@
 
   <br/>
 
-  [♡](https://dkssud-chaeyeon.vercel.app/welcome)
+  [♡](https://dkssud-chaeyeon.pages.dev/welcome)
   
   <br/>
   
