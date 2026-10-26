@@ -45,7 +45,7 @@
 
   <a href="https://www.linkedin.com/in/dkssud-chaeyeon/">`LinkedIn`</a>
   <a href="https://dkssud-chaeyeon.pages.dev/welcome">`Web`</a>
-  <a href="mailto:chae3929@gmail.com">`Mail`</a>
+  <a href="mailto:annyeong.dev@gmail.com">`Mail`</a>
 
   <br/>
 
